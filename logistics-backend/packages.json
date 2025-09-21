@@ -1,0 +1,36 @@
+{
+  "PKG009": {
+    "id": "PKG009",
+    "status": "Delivered",
+    "origin": {
+      "lat": 17.5983,
+      "lng": 78.1233
+    },
+    "location": {
+      "lat": 24.9794,
+      "lng": 55.0361
+    },
+    "destination": {
+      "lat": 24.9794,
+      "lng": 55.0361
+    },
+    "progress": 100
+  },
+  "PKG1121": {
+    "id": "PKG1121",
+    "status": "Delivered",
+    "origin": {
+      "lat": 17.5983,
+      "lng": 78.1233
+    },
+    "location": {
+      "lat": 51.6064,
+      "lng": 4.9972
+    },
+    "destination": {
+      "lat": 51.6064,
+      "lng": 4.9972
+    },
+    "progress": 100
+  }
+}
