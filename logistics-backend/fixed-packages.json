@@ -69,8 +69,8 @@
       "name": "Berlin"
     },
     "location": {
-      "lat": 51.87878837752327,
-      "lng": 14.427837668615732
+      "lat": 51.844973237233454,
+      "lng": 14.481778361587507
     },
     "destination": {
       "lat": -33.8688,
@@ -86,7 +86,7 @@
     "priority": "High",
     "distance": 16094,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "lastUpdate": "2025-11-20T10:04:19.942Z",
     "estimatedDelivery": "2025-12-01T00:24:36.728Z",
     "trackingHistory": [
       {
@@ -116,8 +116,8 @@
       "name": "Paris"
     },
     "location": {
-      "lat": 48.746280234477965,
-      "lng": 1.4535407222579317
+      "lat": 48.7404623761967,
+      "lng": 1.4061487404466677
     },
     "destination": {
       "lat": 34.0522,
@@ -133,7 +133,7 @@
     "priority": "Medium",
     "distance": 9086,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "lastUpdate": "2025-11-20T10:04:19.942Z",
     "estimatedDelivery": "2025-11-26T03:35:37.259Z",
     "trackingHistory": [
       {
@@ -163,8 +163,8 @@
       "name": "Munich"
     },
     "location": {
-      "lat": 47.997440249348806,
-      "lng": 12.476879176865491
+      "lat": 47.990180580906504,
+      "lng": 12.524071810073323
     },
     "destination": {
       "lat": 31.2304,
@@ -180,7 +180,7 @@
     "priority": "Medium",
     "distance": 8777,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "lastUpdate": "2025-11-20T10:04:19.942Z",
     "estimatedDelivery": "2025-11-25T22:27:03.263Z",
     "trackingHistory": [
       {
@@ -210,8 +210,8 @@
       "name": "Zurich"
     },
     "location": {
-      "lat": 46.89081090990306,
-      "lng": 9.646718840394863
+      "lat": 46.86517636087307,
+      "lng": 9.704993465808721
     },
     "destination": {
       "lat": 19.076,
@@ -227,7 +227,7 @@
     "priority": "High",
     "distance": 6541,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "lastUpdate": "2025-11-20T10:04:19.942Z",
     "estimatedDelivery": "2025-11-24T09:11:07.741Z",
     "trackingHistory": [
       {
@@ -257,8 +257,8 @@
       "name": "London"
     },
     "location": {
-      "lat": 50.98962800892232,
-      "lng": 0.9627326250926495
+      "lat": 50.96232262033812,
+      "lng": 1.0202433008438072
     },
     "destination": {
       "lat": 25.2048,
@@ -274,7 +274,7 @@
     "priority": "High",
     "distance": 5473,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "lastUpdate": "2025-11-20T10:04:19.942Z",
     "estimatedDelivery": "2025-11-23T15:23:32.514Z",
     "trackingHistory": [
       {
@@ -304,8 +304,8 @@
       "name": "Chicago"
     },
     "location": {
-      "lat": 41.366609585690824,
-      "lng": -87.309308398917
+      "lat": 41.339635464339196,
+      "lng": -87.2924068517952
     },
     "destination": {
       "lat": -23.5505,
@@ -321,7 +321,7 @@
     "priority": "Low",
     "distance": 8408,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "lastUpdate": "2025-11-20T10:04:19.942Z",
     "estimatedDelivery": "2025-11-25T16:18:09.032Z",
     "trackingHistory": [
       {
@@ -351,8 +351,8 @@
       "name": "Geneva"
     },
     "location": {
-      "lat": 45.94377541935712,
-      "lng": 7.321938337842376
+      "lat": 45.93003103848739,
+      "lng": 7.384100658146501
     },
     "destination": {
       "lat": 22.3193,
@@ -368,7 +368,7 @@
     "priority": "High",
     "distance": 9523,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "lastUpdate": "2025-11-20T10:04:19.942Z",
     "estimatedDelivery": "2025-11-26T10:53:00.035Z",
     "trackingHistory": [
       {
@@ -398,8 +398,8 @@
       "name": "Abu Dhabi"
     },
     "location": {
-      "lat": 23.956696089368734,
-      "lng": 55.439195986454656
+      "lat": 23.939537257926993,
+      "lng": 55.500503706805524
     },
     "destination": {
       "lat": 19.076,
@@ -415,7 +415,7 @@
     "priority": "High",
     "distance": 1995,
     "createdAt": "2025-11-19T20:20:32.673Z",
-    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "lastUpdate": "2025-11-20T10:04:19.942Z",
     "estimatedDelivery": "2025-11-21T05:35:10.511Z",
     "trackingHistory": [
       {
