@@ -1,0 +1,436 @@
+{
+  "PKG001": {
+    "id": "PKG001",
+    "name": "Premium Electronics Shipment",
+    "status": "Cancelled",
+    "origin": {
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "country": "Japan",
+      "continent": "Asia",
+      "name": "Tokyo"
+    },
+    "location": {
+      "lat": 35.68118229625123,
+      "lng": 139.43894730520034
+    },
+    "destination": {
+      "lat": 40.7128,
+      "lng": -74.006,
+      "country": "USA",
+      "continent": "North America",
+      "name": "New York"
+    },
+    "progress": 0,
+    "customer": "John Smith",
+    "customerPhone": "+1-227-499-1948",
+    "weight": "15.5 kg",
+    "priority": "High",
+    "distance": 10852,
+    "createdAt": "2025-11-19T20:10:06.730Z",
+    "lastUpdate": "2025-11-19T20:32:42.551Z",
+    "estimatedDelivery": "2025-11-27T09:01:50.701Z",
+    "trackingHistory": [
+      {
+        "timestamp": "2025-11-19T20:10:06.731Z",
+        "event": "Package created and dispatched from Tokyo to New York",
+        "location": {
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "country": "Japan",
+          "continent": "Asia",
+          "name": "Tokyo"
+        },
+        "status": "In Transit",
+        "details": "Customer: John Smith, Weight: 15.5 kg, Distance: 10852 km"
+      },
+      {
+        "timestamp": "2025-11-19T20:32:44.464Z",
+        "event": "Package cancelled by user at 0% progress",
+        "location": {
+          "lat": 35.68118229625123,
+          "lng": 139.43894730520034
+        },
+        "status": "Cancelled",
+        "details": "Previous status: In Transit. Refund will be processed."
+      }
+    ],
+    "cancelledAt": "2025-11-19T20:32:44.464Z"
+  },
+  "PKG002": {
+    "id": "PKG002",
+    "name": "Medical Equipment Delivery",
+    "status": "In Transit",
+    "origin": {
+      "lat": 52.52,
+      "lng": 13.405,
+      "country": "Germany",
+      "continent": "Europe",
+      "name": "Berlin"
+    },
+    "location": {
+      "lat": 51.87878837752327,
+      "lng": 14.427837668615732
+    },
+    "destination": {
+      "lat": -33.8688,
+      "lng": 151.2093,
+      "country": "Australia",
+      "continent": "Oceania",
+      "name": "Sydney"
+    },
+    "progress": 0,
+    "customer": "Dr. Sarah Johnson",
+    "customerPhone": "+1-206-157-7170",
+    "weight": "8.2 kg",
+    "priority": "High",
+    "distance": 16094,
+    "createdAt": "2025-11-19T20:10:06.731Z",
+    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "estimatedDelivery": "2025-12-01T00:24:36.728Z",
+    "trackingHistory": [
+      {
+        "timestamp": "2025-11-19T20:10:06.731Z",
+        "event": "Package created and dispatched from Berlin to Sydney",
+        "location": {
+          "lat": 52.52,
+          "lng": 13.405,
+          "country": "Germany",
+          "continent": "Europe",
+          "name": "Berlin"
+        },
+        "status": "In Transit",
+        "details": "Customer: Dr. Sarah Johnson, Weight: 8.2 kg, Distance: 16094 km"
+      }
+    ]
+  },
+  "PKG003": {
+    "id": "PKG003",
+    "name": "Fashion Collection",
+    "status": "In Transit",
+    "origin": {
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "country": "France",
+      "continent": "Europe",
+      "name": "Paris"
+    },
+    "location": {
+      "lat": 48.746280234477965,
+      "lng": 1.4535407222579317
+    },
+    "destination": {
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "country": "USA",
+      "continent": "North America",
+      "name": "Los Angeles"
+    },
+    "progress": 0,
+    "customer": "Emily Davis",
+    "customerPhone": "+1-888-672-4959",
+    "weight": "12.0 kg",
+    "priority": "Medium",
+    "distance": 9086,
+    "createdAt": "2025-11-19T20:10:06.731Z",
+    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "estimatedDelivery": "2025-11-26T03:35:37.259Z",
+    "trackingHistory": [
+      {
+        "timestamp": "2025-11-19T20:10:06.731Z",
+        "event": "Package created and dispatched from Paris to Los Angeles",
+        "location": {
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "country": "France",
+          "continent": "Europe",
+          "name": "Paris"
+        },
+        "status": "In Transit",
+        "details": "Customer: Emily Davis, Weight: 12.0 kg, Distance: 9086 km"
+      }
+    ]
+  },
+  "PKG004": {
+    "id": "PKG004",
+    "name": "Automotive Parts",
+    "status": "In Transit",
+    "origin": {
+      "lat": 48.1351,
+      "lng": 11.582,
+      "country": "Germany",
+      "continent": "Europe",
+      "name": "Munich"
+    },
+    "location": {
+      "lat": 47.997440249348806,
+      "lng": 12.476879176865491
+    },
+    "destination": {
+      "lat": 31.2304,
+      "lng": 121.4737,
+      "country": "China",
+      "continent": "Asia",
+      "name": "Shanghai"
+    },
+    "progress": 1,
+    "customer": "Michael Brown",
+    "customerPhone": "+1-289-150-8977",
+    "weight": "25.8 kg",
+    "priority": "Medium",
+    "distance": 8777,
+    "createdAt": "2025-11-19T20:10:06.731Z",
+    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "estimatedDelivery": "2025-11-25T22:27:03.263Z",
+    "trackingHistory": [
+      {
+        "timestamp": "2025-11-19T20:10:06.731Z",
+        "event": "Package created and dispatched from Munich to Shanghai",
+        "location": {
+          "lat": 48.1351,
+          "lng": 11.582,
+          "country": "Germany",
+          "continent": "Europe",
+          "name": "Munich"
+        },
+        "status": "In Transit",
+        "details": "Customer: Michael Brown, Weight: 25.8 kg, Distance: 8777 km"
+      }
+    ]
+  },
+  "PKG005": {
+    "id": "PKG005",
+    "name": "Pharmaceutical Supplies",
+    "status": "In Transit",
+    "origin": {
+      "lat": 47.3769,
+      "lng": 8.5417,
+      "country": "Switzerland",
+      "continent": "Europe",
+      "name": "Zurich"
+    },
+    "location": {
+      "lat": 46.89081090990306,
+      "lng": 9.646718840394863
+    },
+    "destination": {
+      "lat": 19.076,
+      "lng": 72.8777,
+      "country": "India",
+      "continent": "Asia",
+      "name": "Mumbai"
+    },
+    "progress": 1,
+    "customer": "Dr. Jennifer Lee",
+    "customerPhone": "+1-628-730-5356",
+    "weight": "5.5 kg",
+    "priority": "High",
+    "distance": 6541,
+    "createdAt": "2025-11-19T20:10:06.731Z",
+    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "estimatedDelivery": "2025-11-24T09:11:07.741Z",
+    "trackingHistory": [
+      {
+        "timestamp": "2025-11-19T20:10:06.731Z",
+        "event": "Package created and dispatched from Zurich to Mumbai",
+        "location": {
+          "lat": 47.3769,
+          "lng": 8.5417,
+          "country": "Switzerland",
+          "continent": "Europe",
+          "name": "Zurich"
+        },
+        "status": "In Transit",
+        "details": "Customer: Dr. Jennifer Lee, Weight: 5.5 kg, Distance: 6541 km"
+      }
+    ]
+  },
+  "PKG006": {
+    "id": "PKG006",
+    "name": "Art Collection",
+    "status": "In Transit",
+    "origin": {
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "country": "UK",
+      "continent": "Europe",
+      "name": "London"
+    },
+    "location": {
+      "lat": 50.98962800892232,
+      "lng": 0.9627326250926495
+    },
+    "destination": {
+      "lat": 25.2048,
+      "lng": 55.2708,
+      "country": "UAE",
+      "continent": "Middle East",
+      "name": "Dubai"
+    },
+    "progress": 2,
+    "customer": "Jessica Miller",
+    "customerPhone": "+1-300-514-3908",
+    "weight": "18.3 kg",
+    "priority": "High",
+    "distance": 5473,
+    "createdAt": "2025-11-19T20:10:06.731Z",
+    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "estimatedDelivery": "2025-11-23T15:23:32.514Z",
+    "trackingHistory": [
+      {
+        "timestamp": "2025-11-19T20:10:06.731Z",
+        "event": "Package created and dispatched from London to Dubai",
+        "location": {
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "country": "UK",
+          "continent": "Europe",
+          "name": "London"
+        },
+        "status": "In Transit",
+        "details": "Customer: Jessica Miller, Weight: 18.3 kg, Distance: 5473 km"
+      }
+    ]
+  },
+  "PKG007": {
+    "id": "PKG007",
+    "name": "Industrial Equipment",
+    "status": "In Transit",
+    "origin": {
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "country": "USA",
+      "continent": "North America",
+      "name": "Chicago"
+    },
+    "location": {
+      "lat": 41.366609585690824,
+      "lng": -87.309308398917
+    },
+    "destination": {
+      "lat": -23.5505,
+      "lng": -46.6333,
+      "country": "Brazil",
+      "continent": "South America",
+      "name": "São Paulo"
+    },
+    "progress": 1,
+    "customer": "Christopher Taylor",
+    "customerPhone": "+1-599-841-2842",
+    "weight": "45.2 kg",
+    "priority": "Low",
+    "distance": 8408,
+    "createdAt": "2025-11-19T20:10:06.731Z",
+    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "estimatedDelivery": "2025-11-25T16:18:09.032Z",
+    "trackingHistory": [
+      {
+        "timestamp": "2025-11-19T20:10:06.731Z",
+        "event": "Package created and dispatched from Chicago to São Paulo",
+        "location": {
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "country": "USA",
+          "continent": "North America",
+          "name": "Chicago"
+        },
+        "status": "In Transit",
+        "details": "Customer: Christopher Taylor, Weight: 45.2 kg, Distance: 8408 km"
+      }
+    ]
+  },
+  "PKG008": {
+    "id": "PKG008",
+    "name": "Luxury Watches",
+    "status": "In Transit",
+    "origin": {
+      "lat": 46.2044,
+      "lng": 6.1432,
+      "country": "Switzerland",
+      "continent": "Europe",
+      "name": "Geneva"
+    },
+    "location": {
+      "lat": 45.94377541935712,
+      "lng": 7.321938337842376
+    },
+    "destination": {
+      "lat": 22.3193,
+      "lng": 114.1694,
+      "country": "Hong Kong",
+      "continent": "Asia",
+      "name": "Hong Kong"
+    },
+    "progress": 1,
+    "customer": "Amanda Anderson",
+    "customerPhone": "+1-654-814-9984",
+    "weight": "2.1 kg",
+    "priority": "High",
+    "distance": 9523,
+    "createdAt": "2025-11-19T20:10:06.731Z",
+    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "estimatedDelivery": "2025-11-26T10:53:00.035Z",
+    "trackingHistory": [
+      {
+        "timestamp": "2025-11-19T20:10:06.731Z",
+        "event": "Package created and dispatched from Geneva to Hong Kong",
+        "location": {
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "country": "Switzerland",
+          "continent": "Europe",
+          "name": "Geneva"
+        },
+        "status": "In Transit",
+        "details": "Customer: Amanda Anderson, Weight: 2.1 kg, Distance: 9523 km"
+      }
+    ]
+  },
+  "PKG009": {
+    "id": "PKG009",
+    "name": "Rishi",
+    "status": "In Transit",
+    "origin": {
+      "lat": 24.2539,
+      "lng": 54.3773,
+      "country": "UAE",
+      "continent": "Middle East",
+      "name": "Abu Dhabi"
+    },
+    "location": {
+      "lat": 23.956696089368734,
+      "lng": 55.439195986454656
+    },
+    "destination": {
+      "lat": 19.076,
+      "lng": 72.8777,
+      "country": "India",
+      "continent": "Asia",
+      "name": "Mumbai"
+    },
+    "progress": 6,
+    "customer": "Rishi",
+    "customerPhone": "+1-944-488-8197",
+    "weight": "1 kg",
+    "priority": "High",
+    "distance": 1995,
+    "createdAt": "2025-11-19T20:20:32.673Z",
+    "lastUpdate": "2025-11-20T09:59:01.837Z",
+    "estimatedDelivery": "2025-11-21T05:35:10.511Z",
+    "trackingHistory": [
+      {
+        "timestamp": "2025-11-19T20:20:32.673Z",
+        "event": "Package created and dispatched from Abu Dhabi to Mumbai",
+        "location": {
+          "lat": 24.2539,
+          "lng": 54.3773,
+          "country": "UAE",
+          "continent": "Middle East",
+          "name": "Abu Dhabi"
+        },
+        "status": "In Transit",
+        "details": "Customer: Rishi, Weight: 1 kg, Distance: 1995 km"
+      }
+    ]
+  }
+}
