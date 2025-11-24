@@ -12,7 +12,7 @@ L.Icon.Default.mergeOptions({
   shadowUrl: require('leaflet/dist/images/marker-shadow.png'),
 });
 
-const socket = io('http://localhost:5001');
+const socket = io();
 
 function UltimateApp() {
   const [packages, setPackages] = useState([]);
@@ -57,7 +57,7 @@ function UltimateApp() {
     const loadCities = async () => {
       try {
         console.log('🌍 Loading cities from backend...');
-        const response = await fetch('http://localhost:5001/api/cities');
+        const response = await fetch('/api/cities');
         const data = await response.json();
         
         if (data.success && data.data) {
@@ -77,8 +77,8 @@ function UltimateApp() {
     const loadOtherData = async () => {
       try {
         const [statsData, suggestionsData] = await Promise.all([
-          fetch('http://localhost:5001/api/stats').then(res => res.json()),
-          fetch('http://localhost:5001/api/suggestions').then(res => res.json()).catch(() => ({ success: false }))
+          fetch('/api/stats').then(res => res.json()),
+          fetch('/api/suggestions').then(res => res.json()).catch(() => ({ success: false }))
         ]);
         
         if (statsData.success) {
@@ -139,7 +139,7 @@ function UltimateApp() {
   // Refresh stats periodically
   useEffect(() => {
     const interval = setInterval(() => {
-      fetch('http://localhost:5001/api/stats')
+      fetch('/api/stats')
         .then(res => res.json())
         .then(data => {
           if (data.success) {
@@ -190,7 +190,7 @@ function UltimateApp() {
     try {
       console.log('📡 SENDING TO BACKEND:', JSON.stringify(formData, null, 2));
       
-      const response = await fetch('http://localhost:5001/api/packages', {
+      const response = await fetch('/api/packages', {
         method: 'POST',
         headers: { 
           'Content-Type': 'application/json',
@@ -292,7 +292,7 @@ function UltimateApp() {
     }
     
     try {
-      const response = await fetch(`http://localhost:5001/api/packages/${packageId}/cancel`, {
+      const response = await fetch(`/api/packages/${packageId}/cancel`, {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' }
       });

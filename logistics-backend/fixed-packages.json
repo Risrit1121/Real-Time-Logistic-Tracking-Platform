@@ -69,8 +69,8 @@
       "name": "Berlin"
     },
     "location": {
-      "lat": 45.262824278744695,
-      "lng": 24.981385136021053
+      "lat": 43.6113055874203,
+      "lng": 27.61582822579326
     },
     "destination": {
       "lat": -33.8688,
@@ -79,14 +79,14 @@
       "continent": "Oceania",
       "name": "Sydney"
     },
-    "progress": 5,
+    "progress": 6,
     "customer": "Dr. Sarah Johnson",
     "customerPhone": "+1-206-157-7170",
     "weight": "8.2 kg",
     "priority": "High",
     "distance": 16094,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-24T05:19:15.108Z",
+    "lastUpdate": "2025-11-24T09:54:37.857Z",
     "estimatedDelivery": "2025-12-01T00:24:36.728Z",
     "trackingHistory": [
       {
@@ -116,8 +116,8 @@
       "name": "Paris"
     },
     "location": {
-      "lat": 47.60801077320359,
-      "lng": -7.818745228533582
+      "lat": 47.32386877016499,
+      "lng": -10.133351736430145
     },
     "destination": {
       "lat": 34.0522,
@@ -126,14 +126,14 @@
       "continent": "North America",
       "name": "Los Angeles"
     },
-    "progress": 5,
+    "progress": 7,
     "customer": "Emily Davis",
     "customerPhone": "+1-888-672-4959",
     "weight": "12.0 kg",
     "priority": "Medium",
     "distance": 9086,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-24T05:19:15.108Z",
+    "lastUpdate": "2025-11-24T09:54:37.857Z",
     "estimatedDelivery": "2025-11-26T03:35:37.259Z",
     "trackingHistory": [
       {
@@ -163,8 +163,8 @@
       "name": "Munich"
     },
     "location": {
-      "lat": 46.577079269868634,
-      "lng": 21.710162385307093
+      "lat": 46.222519802644136,
+      "lng": 24.01503278262757
     },
     "destination": {
       "lat": 31.2304,
@@ -173,14 +173,14 @@
       "continent": "Asia",
       "name": "Shanghai"
     },
-    "progress": 6,
+    "progress": 8,
     "customer": "Michael Brown",
     "customerPhone": "+1-289-150-8977",
     "weight": "25.8 kg",
     "priority": "Medium",
     "distance": 8777,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-24T05:19:15.108Z",
+    "lastUpdate": "2025-11-24T09:54:37.858Z",
     "estimatedDelivery": "2025-11-25T22:27:03.263Z",
     "trackingHistory": [
       {
@@ -210,8 +210,8 @@
       "name": "Zurich"
     },
     "location": {
-      "lat": 41.875387208649116,
-      "lng": 21.048204278677975
+      "lat": 40.62340550743924,
+      "lng": 23.894314993466136
     },
     "destination": {
       "lat": 19.076,
@@ -220,14 +220,14 @@
       "continent": "Asia",
       "name": "Mumbai"
     },
-    "progress": 16,
+    "progress": 20,
     "customer": "Dr. Jennifer Lee",
     "customerPhone": "+1-628-730-5356",
     "weight": "5.5 kg",
     "priority": "High",
     "distance": 6541,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-24T05:19:15.108Z",
+    "lastUpdate": "2025-11-24T09:54:37.858Z",
     "estimatedDelivery": "2025-11-24T09:11:07.741Z",
     "trackingHistory": [
       {
@@ -257,8 +257,8 @@
       "name": "London"
     },
     "location": {
-      "lat": 45.647302972623805,
-      "lng": 12.214750591160056
+      "lat": 44.31371809809189,
+      "lng": 15.023550292702515
     },
     "destination": {
       "lat": 25.2048,
@@ -267,14 +267,14 @@
       "continent": "Middle East",
       "name": "Dubai"
     },
-    "progress": 19,
+    "progress": 23,
     "customer": "Jessica Miller",
     "customerPhone": "+1-300-514-3908",
     "weight": "18.3 kg",
     "priority": "High",
     "distance": 5473,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-24T05:19:15.108Z",
+    "lastUpdate": "2025-11-24T09:54:37.858Z",
     "estimatedDelivery": "2025-11-23T15:23:32.514Z",
     "trackingHistory": [
       {
@@ -304,8 +304,8 @@
       "name": "Chicago"
     },
     "location": {
-      "lat": 36.08909729596044,
-      "lng": -84.00250475968294
+      "lat": 34.77169138806063,
+      "lng": -83.177039576197
     },
     "destination": {
       "lat": -23.5505,
@@ -314,14 +314,14 @@
       "continent": "South America",
       "name": "São Paulo"
     },
-    "progress": 8,
+    "progress": 10,
     "customer": "Christopher Taylor",
     "customerPhone": "+1-599-841-2842",
     "weight": "45.2 kg",
     "priority": "Low",
     "distance": 8408,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-24T05:19:15.108Z",
+    "lastUpdate": "2025-11-24T09:54:37.858Z",
     "estimatedDelivery": "2025-11-25T16:18:09.032Z",
     "trackingHistory": [
       {
@@ -351,8 +351,8 @@
       "name": "Geneva"
     },
     "location": {
-      "lat": 43.25467433579853,
-      "lng": 19.484054949042886
+      "lat": 42.58340396068002,
+      "lng": 22.520039215217004
     },
     "destination": {
       "lat": 22.3193,
@@ -361,14 +361,14 @@
       "continent": "Asia",
       "name": "Hong Kong"
     },
-    "progress": 9,
+    "progress": 11,
     "customer": "Amanda Anderson",
     "customerPhone": "+1-654-814-9984",
     "weight": "2.1 kg",
     "priority": "High",
     "distance": 9523,
     "createdAt": "2025-11-19T20:10:06.731Z",
-    "lastUpdate": "2025-11-24T05:19:15.108Z",
+    "lastUpdate": "2025-11-24T09:54:37.858Z",
     "estimatedDelivery": "2025-11-26T10:53:00.035Z",
     "trackingHistory": [
       {
@@ -398,8 +398,8 @@
       "name": "Abu Dhabi"
     },
     "location": {
-      "lat": 20.599554530214768,
-      "lng": 67.43410931057403
+      "lat": 19.76152367763074,
+      "lng": 70.42835523752161
     },
     "destination": {
       "lat": 19.076,
@@ -408,14 +408,14 @@
       "continent": "Asia",
       "name": "Mumbai"
     },
-    "progress": 70,
+    "progress": 87,
     "customer": "Rishi",
     "customerPhone": "+1-944-488-8197",
     "weight": "1 kg",
     "priority": "High",
     "distance": 1995,
     "createdAt": "2025-11-19T20:20:32.673Z",
-    "lastUpdate": "2025-11-24T05:19:15.108Z",
+    "lastUpdate": "2025-11-24T09:54:37.858Z",
     "estimatedDelivery": "2025-11-21T05:35:10.511Z",
     "trackingHistory": [
       {
@@ -450,13 +450,23 @@
         },
         "status": "In Transit",
         "details": "Customer: Rishi, Remaining: 1007 km"
+      },
+      {
+        "timestamp": "2025-11-24T06:38:42.662Z",
+        "event": "Journey 75% complete",
+        "location": {
+          "lat": 20.379727236838466,
+          "lng": 68.21954218072949
+        },
+        "status": "In Transit",
+        "details": "Customer: Rishi, Remaining: 509 km"
       }
     ]
   },
   "PKG010": {
     "id": "PKG010",
     "name": "Rishi",
-    "status": "In Transit",
+    "status": "Delivered",
     "origin": {
       "lat": 24.2539,
       "lng": 54.3773,
@@ -465,8 +475,11 @@
       "name": "Abu Dhabi"
     },
     "location": {
-      "lat": 24.287164720142144,
-      "lng": 54.4085567330393
+      "lat": 25.2048,
+      "lng": 55.2708,
+      "country": "UAE",
+      "continent": "Middle East",
+      "name": "Dubai"
     },
     "destination": {
       "lat": 25.2048,
@@ -475,14 +488,14 @@
       "continent": "Middle East",
       "name": "Dubai"
     },
-    "progress": 4,
+    "progress": 100,
     "customer": "Shrini",
     "customerPhone": "+1-368-764-9786",
     "weight": "2 kg",
     "priority": "High",
     "distance": 139,
     "createdAt": "2025-11-24T05:15:29.641Z",
-    "lastUpdate": "2025-11-24T05:19:15.108Z",
+    "lastUpdate": "2025-11-24T06:36:33.614Z",
     "estimatedDelivery": "2025-11-24T07:34:30.099Z",
     "trackingHistory": [
       {
@@ -497,7 +510,99 @@
         },
         "status": "In Transit",
         "details": "Customer: Shrini, Weight: 2 kg, Distance: 139 km"
+      },
+      {
+        "timestamp": "2025-11-24T05:42:03.540Z",
+        "event": "Journey 25% complete",
+        "location": {
+          "lat": 24.486753040994998,
+          "lng": 54.596097131275094
+        },
+        "status": "In Transit",
+        "details": "Customer: Shrini, Remaining: 105 km"
+      },
+      {
+        "timestamp": "2025-11-24T06:20:45.255Z",
+        "event": "Journey 50% complete",
+        "location": {
+          "lat": 24.724420712536883,
+          "lng": 54.819418263384826
+        },
+        "status": "In Transit",
+        "details": "Customer: Shrini, Remaining: 70 km"
+      },
+      {
+        "timestamp": "2025-11-24T06:36:33.615Z",
+        "event": "Package delivered to Shrini at Dubai",
+        "location": {
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "country": "UAE",
+          "continent": "Middle East",
+          "name": "Dubai"
+        },
+        "status": "Delivered",
+        "details": "Weight: 2 kg, Total distance: 139 km"
       }
-    ]
+    ],
+    "deliveredAt": "2025-11-24T06:36:33.615Z"
+  },
+  "PKG011": {
+    "id": "PKG011",
+    "name": "Mobile",
+    "status": "Cancelled",
+    "origin": {
+      "lat": 25.2048,
+      "lng": 55.2708,
+      "country": "UAE",
+      "continent": "Middle East",
+      "name": "Dubai"
+    },
+    "location": {
+      "lat": 25.25735136459233,
+      "lng": 54.82040196655904
+    },
+    "destination": {
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "country": "USA",
+      "continent": "North America",
+      "name": "Chicago"
+    },
+    "progress": 0,
+    "customer": "Vishnu",
+    "customerPhone": "+1-660-420-9384",
+    "weight": "5 kg",
+    "priority": "High",
+    "distance": 11637,
+    "createdAt": "2025-11-24T09:01:28.676Z",
+    "lastUpdate": "2025-11-24T09:44:07.680Z",
+    "estimatedDelivery": "2025-12-02T10:58:51.483Z",
+    "trackingHistory": [
+      {
+        "timestamp": "2025-11-24T09:01:28.676Z",
+        "event": "Package created and dispatched from Dubai to Chicago",
+        "location": {
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "country": "UAE",
+          "continent": "Middle East",
+          "name": "Dubai"
+        },
+        "status": "In Transit",
+        "details": "Customer: Vishnu, Weight: 5 kg, Distance: 11637 km"
+      },
+      {
+        "timestamp": "2025-11-24T09:44:10.626Z",
+        "event": "Package cancelled by user at 0% progress",
+        "location": {
+          "lat": 25.25735136459233,
+          "lng": 54.82040196655904
+        },
+        "status": "Cancelled",
+        "details": "Previous status: In Transit. Refund will be processed."
+      }
+    ],
+    "cancelledAt": "2025-11-24T09:44:10.626Z"
   }
 }
